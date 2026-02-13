@@ -1,0 +1,1 @@
+Repository for CS 3200 Assignment 3. There are only 2 files: chinook.db and queries.sql. chinook.db is the downloaded sample db we were told to use. While queries.sql is the SQL code used to implement each of queries 1-8.
